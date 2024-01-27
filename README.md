@@ -22,6 +22,6 @@ The example loads the audio in the repo and produces this output:
 
 ```json
 {
-  text: "This is an example of doing voice commands. I'm hoping that what I'm saying is going to come through clearly in a speech-to-text API. Thank you for listening."
+  "text": "This is an example of doing voice commands. I'm hoping that what I'm saying is going to come through clearly in a speech-to-text API. Thank you for listening."
 }
 ```
