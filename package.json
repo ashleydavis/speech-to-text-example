@@ -1,0 +1,19 @@
+{
+    "name": "speech-to-text-example",
+    "version": "1.0.0",
+    "description": "An example of converting speech to text using the OpenAI API.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "node-dev --respawn index.js"
+    },
+    "keywords": [],
+    "author": "ashley@codecapers.com.au",
+    "license": "ISC",
+    "dependencies": {
+        "openai": "^4.26.0"
+    },
+    "devDependencies": {
+        "node-dev": "^8.0.0"
+    }
+}
